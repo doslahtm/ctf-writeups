@@ -16,7 +16,7 @@ I referenced this writeup, and paper of UseNIX Security about ret2dlresolve
 
 [https://github.com/nhtri2003gmail/writeup-ctf.dicega.ng-dataeater](https://github.com/nhtri2003gmail/writeup-ctf.dicega.ng-dataeater)
 
-[](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-di-frederico.pdf)
+[https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-di-frederico.pdf](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-di-frederico.pdf)
 
 I recommend to read above paper if you don’t know ret2dlresolve detail. Because paper is very detailed about ELF security.
 
